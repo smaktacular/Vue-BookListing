@@ -12,7 +12,7 @@ export default {
 </script>
 
 <style>
- .h1 .h2{
- font-weight: normal;
+ h1, h2 {
+    font-weight: normal;
  }
 </style>
